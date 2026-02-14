@@ -12,6 +12,7 @@ export default function ThankYouPage() {
       <h1 className="h1">Ďakujeme</h1>
       <p className="mt-4 text-zinc-700">Ozveme sa vám do 24 hodín.</p>
       <Link className="mt-6 inline-block underline" href="/">Späť na hlavnú stránku</Link>
+      <a className="mt-6 inline-block underline" href="/">Späť na hlavnú stránku</a>
     </main>
   );
 }
