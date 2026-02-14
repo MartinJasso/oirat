@@ -65,7 +65,7 @@ async function main() {
     keywords: [`AI konzultant ${brief.city}`, 'AI audit', 'automatizácia procesov']
   };
 
-  const codexPlan = `# CODEX PLAN\n\n1. Bootstrap Next.js + Tailwind + static export\n2. Zod schema + section registry\n3. SEO metadata + JSON-LD + sitemap/robots\n4. Implement section components\n5. CTA form adapter + thank-you page\n6. Run lint/build/seo sanity checks\n`;
+  const codexPlan = `# CODEX PLAN\n\n1. Bootstrap Next.js + Tailwind + static export\n2. Zod schema + section registry\n3. SEO metadata + JSON-LD + sitemap/robots\n4. Implement section components\n5. CTA form adapter + dakujem page\n6. Run lint/build/seo sanity checks\n`;
 
   await mkdir('content', { recursive: true });
   await mkdir('docs', { recursive: true });

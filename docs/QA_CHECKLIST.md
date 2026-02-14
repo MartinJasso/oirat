@@ -5,5 +5,5 @@
 - [ ] FAQ JSON-LD present and valid.
 - [ ] ProfessionalService JSON-LD present.
 - [ ] Form submit path configured.
-- [ ] `/thank-you` is `noindex`.
+- [ ] `/dakujem` is `noindex`.
 - [ ] Lighthouse goals: Perf 95+, SEO 100, Best Practices 100.

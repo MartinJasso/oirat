@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Ďakujeme za správu',
+  title: 'Ďakujeme za správu | Senior AI Košice',
   robots: { index: false, follow: false }
 };
 

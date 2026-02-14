@@ -21,7 +21,7 @@
 ## 5) Form
 - Implement CTA form with client validation.
 - Implement v0 static endpoint integration.
-- Add thank-you page (`noindex`).
+- Add dakujem page (`noindex`).
 
 ## 6) Quality gates
 - `npm run lint`
