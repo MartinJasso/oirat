@@ -1,0 +1,90 @@
+{
+  "hero": {
+    "eyebrow": "Senior AI služby pre Košice",
+    "title": "AI systémy pre firmy v Košiciach: menej administratívy, viac výsledkov",
+    "subtitle": "Audit → automatizácia → merateľný dopad. Bez hype, s jasným plánom a termínmi.",
+    "ctaPrimary": "Získať plán do 24h",
+    "ctaSecondary": "Pozrieť služby"
+  },
+  "valueProps": {
+    "title": "Čo získate",
+    "items": [
+      "Rýchlejšie interné procesy a menej manuálnej práce",
+      "Spoľahlivé workflow automatizácie s kontrolou kvality",
+      "Vyššiu konverziu z leadov a lepší follow-up"
+    ]
+  },
+  "packages": {
+    "title": "Ponuka služieb",
+    "items": [
+      {
+        "name": "AI Audit",
+        "description": "Analýza procesov, kde AI prinesie najrýchlejší efekt.",
+        "priceHint": "fixná cena"
+      },
+      {
+        "name": "Automation Sprint",
+        "description": "Implementácia prioritných automatizácií do 1–2 týždňov.",
+        "priceHint": "projekt"
+      },
+      {
+        "name": "Retainer",
+        "description": "Mesačný rozvoj AI procesov, podpora tímu a optimalizácie.",
+        "priceHint": "mesačne"
+      }
+    ]
+  },
+  "proof": {
+    "title": "Prečo nám firmy dôverujú",
+    "points": [
+      "Senior prístup: návrh aj realizácia v jednom tíme",
+      "Skúsenosti s prevádzkou procesov, nie len prototypmi",
+      "Dôraz na ROI, transparentné metriky a stabilitu"
+    ]
+  },
+  "useCasesTabs": {
+    "title": "Use-cases podľa segmentu",
+    "tabs": {
+      "dentist": ["online objednávky + triage", "automatizované pripomienky termínov", "predvyplnenie dokumentácie"],
+      "accounting": ["spracovanie dokladov", "klasifikácia a extrakcia údajov", "automatický klientsky reporting"],
+      "law": ["intake klientov", "predpríprava draftov", "vyhľadávanie v dokumentoch"],
+      "realestate": ["lead scoring", "automatizovaný follow-up", "obsah pre ponuky a inzercie"]
+    }
+  },
+  "process": {
+    "title": "Ako spolupráca prebieha",
+    "steps": [
+      "Diagnostika a prioritizácia",
+      "Implementácia riešenia",
+      "Zaškolenie tímu",
+      "Meranie dopadu a optimalizácia"
+    ]
+  },
+  "faq": {
+    "title": "Časté otázky",
+    "items": [
+      {
+        "q": "Pre aké firmy je služba vhodná?",
+        "a": "Najmä pre lokálne firmy, ktoré majú opakované administratívne alebo obchodné procesy."
+      },
+      {
+        "q": "Ako rýchlo uvidíme výsledok?",
+        "a": "Pri správne zvolenom use-case býva prvý merateľný efekt viditeľný už počas prvých týždňov."
+      },
+      {
+        "q": "Musíme mať interný IT tím?",
+        "a": "Nie, riešenie vieme dodať aj pre firmy bez interného vývoja, vrátane zaškolenia."
+      }
+    ]
+  },
+  "ctaForm": {
+    "title": "Získajte návrh riešenia do 24 hodín",
+    "subtitle": "Napíšte nám, čo chcete zlepšiť. Ozveme sa s konkrétnym plánom.",
+    "submit": "Odoslať dopyt"
+  },
+  "footer": {
+    "tagline": "Senior AI služby pre Košice",
+    "privacy": "Ochrana osobných údajov",
+    "terms": "Obchodné podmienky"
+  }
+}

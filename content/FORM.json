@@ -1,0 +1,14 @@
+{
+  "mode": "formspree",
+  "endpoint": "https://formspree.io/f/XXXX",
+  "method": "POST",
+  "fields": ["name", "company", "contact", "segment", "message", "consent"],
+  "spamProtection": {
+    "honeypot": "website",
+    "minimumSubmitSeconds": 4
+  },
+  "onSuccess": {
+    "type": "redirect",
+    "path": "/dakujem"
+  }
+}

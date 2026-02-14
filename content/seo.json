@@ -1,0 +1,30 @@
+{
+  "title": "AI konzultant Košice | Senior AI služby pre firmy",
+  "description": "Senior AI služby pre firmy v Košiciach: AI audit, automatizácia procesov, implementácia a merateľný dopad.",
+  "keywords": ["AI konzultant Košice", "AI audit", "automatizácia procesov", "senior AI služby"],
+  "canonical": "https://example.com/",
+  "openGraph": {
+    "title": "Senior AI služby pre Košice",
+    "description": "Audit, implementácia, merateľný výsledok.",
+    "image": "/images/og-cover.jpg",
+    "locale": "sk_SK",
+    "type": "website"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "AI konzultant Košice",
+    "description": "Senior AI služby bez hype.",
+    "image": "/images/og-cover.jpg"
+  },
+  "jsonLd": {
+    "service": {
+      "@type": "ProfessionalService",
+      "name": "Senior AI Košice",
+      "areaServed": "Košice",
+      "serviceType": "AI konzultácie a automatizácia"
+    }
+  },
+  "routes": {
+    "thankYouNoIndex": true
+  }
+}

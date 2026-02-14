@@ -1,0 +1,35 @@
+{
+  "brand": {
+    "name": "Senior AI Košice",
+    "city": "Košice",
+    "tone": ["minimal", "direct", "senior", "no-hype"],
+    "theme": {
+      "preset": "minimal-serious",
+      "radius": "xl",
+      "density": "tight"
+    }
+  },
+  "routes": {
+    "home": "/",
+    "thankYou": "/dakujem",
+    "privacy": "/privacy",
+    "terms": "/terms"
+  },
+  "sections": [
+    { "type": "hero", "enabled": true },
+    { "type": "valueProps", "enabled": true },
+    { "type": "packages", "enabled": true },
+    { "type": "proof", "enabled": true },
+    { "type": "useCasesTabs", "enabled": true, "segments": ["dentist", "accounting", "law", "realestate"] },
+    { "type": "process", "enabled": true },
+    { "type": "faq", "enabled": true },
+    { "type": "ctaForm", "enabled": true },
+    { "type": "footer", "enabled": true }
+  ],
+  "form": {
+    "mode": "formspree",
+    "endpoint": "https://formspree.io/f/XXXX",
+    "fields": ["name", "company", "contact", "segment", "message", "consent"],
+    "successRedirect": "/dakujem"
+  }
+}
