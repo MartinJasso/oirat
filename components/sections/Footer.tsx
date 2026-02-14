@@ -8,6 +8,8 @@ export function Footer({ brand, city }: { brand: string; city: string }) {
         <div className="mt-2 space-x-4">
           <Link href="/privacy" className="underline">Súkromie</Link>
           <Link href="/terms" className="underline">Podmienky</Link>
+          <a href="/privacy" className="underline">Súkromie</a>
+          <a href="/terms" className="underline">Podmienky</a>
         </div>
       </div>
     </footer>
