@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "Senior AI systémy pre firmy v Košiciach",
+    "subtitle": "Audit → automatizácia → merateľný výsledok bez hype-u. Znižujeme administratívu a zrýchľujeme procesy.",
+    "ctaLabel": "Získať plán do 24h"
+  },
+  "valueProps": {
+    "items": [
+      "Rýchlejšie interné procesy a menej manuálnej práce.",
+      "Spoľahlivé workflowy s jasným vlastníkom a metrikami.",
+      "Viac kvalifikovaných dopytov a vyššia konverzia."
+    ]
+  },
+  "packages": {
+    "items": [
+      { "name": "AI Audit", "price": "od 490 €", "description": "Mapovanie procesov, prioritizácia a roadmapa implementácie." },
+      { "name": "Automation Sprint", "price": "od 1 490 €", "description": "1–2 týždne implementácie vybraného automatizačného scenára." },
+      { "name": "Retainer", "price": "od 890 €/mesačne", "description": "Priebežné zlepšovanie AI workflowov, reporting a tímové školenie." }
+    ]
+  },
+  "proof": {
+    "title": "Dôveryhodnosť a skúsenosti",
+    "bullets": [
+      "Seniorné technické vedenie a doručovanie produkčných riešení.",
+      "Zameranie na ROI: čas, kapacita tímu, konverzné miery.",
+      "Transparentný proces a meranie výsledkov od prvého týždňa."
+    ]
+  },
+  "useCasesTabs": {
+    "dentist": "Automatizácia objednávok, pripomienok a predbežného triage.",
+    "accounting": "Spracovanie podkladov, kontrolné checklisty a opakované reporty.",
+    "law": "Intake klientov, predpríprava dokumentov a interné šablóny.",
+    "realestate": "Kvalifikácia leadov, follow-up sekvencie a CRM synchronizácia."
+  },
+  "process": {
+    "steps": ["Diagnostika a výber cieľa", "Implementácia pilotu", "Zaškolenie tímu", "Meranie a optimalizácia"]
+  },
+  "faq": {
+    "items": [
+      { "q": "Ako rýchlo vieme začať?", "a": "Väčšinou do 3 pracovných dní od úvodného hovoru." },
+      { "q": "Potrebujem vlastný IT tím?", "a": "Nie, riešenia navrhujeme tak, aby fungovali aj bez interného vývoja." },
+      { "q": "Čo je výsledkom AI auditu?", "a": "Prioritizovaný plán zlepšení, odhad dopadu a implementačné kroky." }
+    ]
+  },
+  "form": {
+    "segments": ["dentist", "accounting", "law", "realestate"]
+  }
+}
