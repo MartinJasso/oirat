@@ -1,0 +1,80 @@
+{
+  "hero": {
+    "h1": "Senior AI systémy pre firmy v Košiciach",
+    "subheadline": "Audit → automatizácia → merateľný výsledok bez zbytočného hype.",
+    "primaryCta": "Získať plán do 24 hodín",
+    "secondaryCta": "Pozrieť proces spolupráce"
+  },
+  "valueProps": {
+    "title": "Čo získate",
+    "items": [
+      "Rýchlejšie procesy a menej manuálnej administratívy",
+      "Spoľahlivé workflowy, ktoré fungujú aj po odovzdaní",
+      "Vyššiu konverziu a lepší dohľad nad výkonom"
+    ]
+  },
+  "packages": {
+    "title": "Balíky služieb",
+    "plans": [
+      {
+        "name": "AI Audit",
+        "summary": "Fixná analýza procesov a príležitostí na automatizáciu.",
+        "duration": "3–5 dní"
+      },
+      {
+        "name": "Automation Sprint",
+        "summary": "Implementácia najdôležitejších automatizácií za 1–2 týždne.",
+        "duration": "1–2 týždne"
+      },
+      {
+        "name": "Retainer",
+        "summary": "Mesačný rozvoj, optimalizácia a podpora AI systémov.",
+        "duration": "mesačne"
+      }
+    ]
+  },
+  "proof": {
+    "title": "Prečo spolupracovať so senior konzultantom",
+    "body": "Skúsenosti z doručovania produkčných riešení, dôraz na ROI a stabilnú prevádzku.",
+    "disclaimer": "Doplňte iba overiteľné výsledky a referencie. Neuvádzajte neoverené tvrdenia."
+  },
+  "useCasesTabs": {
+    "title": "Použitie podľa segmentu",
+    "segments": {
+      "dentist": "Pripomienky termínov, spracovanie dopytov, zníženie výpadkov.",
+      "accounting": "Triedenie dokumentov, predspracovanie podkladov, reporting.",
+      "law": "Intake klientov, prehľad dokumentov, podpora prípravy podaní.",
+      "realestate": "Lead routing, odpovede na dopyty, CRM automatizácia."
+    }
+  },
+  "process": {
+    "title": "Proces spolupráce",
+    "steps": [
+      "Diagnostika",
+      "Implementácia",
+      "Zaškolenie tímu",
+      "Meranie dopadu"
+    ]
+  },
+  "faq": {
+    "title": "Často kladené otázky",
+    "items": [
+      {
+        "q": "Ako rýchlo vieme začať?",
+        "a": "Úvodný audit vieme spustiť do niekoľkých pracovných dní."
+      },
+      {
+        "q": "Musíme meniť existujúce systémy?",
+        "a": "Nie nutne. Najprv využijeme to, čo už vo firme funguje."
+      },
+      {
+        "q": "Aký je typický výsledok?",
+        "a": "Najčastejšie ide o úsporu času, menej chýb a vyššiu rýchlosť reakcie na klienta."
+      }
+    ]
+  },
+  "ctaForm": {
+    "title": "Získajte návrh riešenia do 24h",
+    "consentLabel": "Súhlasím so spracovaním údajov podľa zásad ochrany súkromia."
+  }
+}
