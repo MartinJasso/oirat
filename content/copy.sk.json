@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "h1": "Senior AI systémy pre firmy v Košiciach",
+    "subhead": "Audit → automatizácia → merateľný výsledok. Bez hype, s jasným plánom.",
+    "primaryCta": "Získať plán do 24h",
+    "secondaryCta": "Pozrieť postup"
+  },
+  "valueProps": {
+    "title": "Čo získate",
+    "items": [
+      "Rýchlejšie interné procesy a menej manuálnej administratívy.",
+      "Stabilné automatizácie navrhnuté pre reálnu prevádzku.",
+      "Vyššiu konverziu dopytov cez lepší intake a follow-up."
+    ]
+  },
+  "packages": {
+    "title": "Balíky spolupráce",
+    "plans": [
+      {
+        "name": "AI Audit",
+        "duration": "1 týždeň",
+        "description": "Mapovanie procesov a prioritizácia AI príležitostí.",
+        "cta": "Požiadať o audit"
+      },
+      {
+        "name": "Automation Sprint",
+        "duration": "1–2 týždne",
+        "description": "Implementácia jedného až dvoch workflowov s meraním výsledku.",
+        "cta": "Spustiť sprint"
+      },
+      {
+        "name": "Retainer",
+        "duration": "mesačne",
+        "description": "Priebežné zlepšovanie procesov, support a reporting.",
+        "cta": "Dohodnúť retainer"
+      }
+    ]
+  },
+  "credibility": {
+    "title": "Prečo senior prístup",
+    "body": "Skúsenosti z produkčných projektov, dôraz na spoľahlivosť a merateľné KPI.",
+    "proofNote": "Doplňte iba overiteľné výsledky a referencie."
+  },
+  "useCasesTabs": {
+    "title": "Use cases podľa segmentu",
+    "segments": {
+      "dentist": [
+        "Automatické pripomienky termínov a zníženie no-show.",
+        "Predtriedenie dopytov a priorizácia urgentných prípadov."
+      ],
+      "accounting": [
+        "Predspracovanie dokumentov a kontrola úplnosti podkladov.",
+        "Automatické notifikácie klientom pred deadlinom."
+      ],
+      "law": [
+        "Intake formulár a triage podľa typu prípadu.",
+        "Návrhy štandardizovaných dokumentov pre rutinné úkony."
+      ],
+      "realestate": [
+        "Kvalifikácia leadov a automatické priradenie maklérovi.",
+        "Generovanie popisov nehnuteľností z jednotného šablónového vstupu."
+      ]
+    }
+  },
+  "process": {
+    "title": "Postup",
+    "steps": ["Diagnóza", "Implementácia", "Zaškolenie tímu", "Meranie dopadu"]
+  },
+  "faq": {
+    "title": "Časté otázky",
+    "items": [
+      {
+        "q": "Ako rýchlo vieme spustiť prvý projekt?",
+        "a": "Prvé výsledky vieme doručiť typicky do 1–2 týždňov podľa rozsahu."
+      },
+      {
+        "q": "Potrebujeme vlastné IT oddelenie?",
+        "a": "Nie. Väčšinu riešení dodáme ako službu vrátane zaškolenia." 
+      },
+      {
+        "q": "Ako meriame úspech?",
+        "a": "Pred začiatkom nastavíme KPI (čas, konverzia, náklady) a reportujeme zmenu."
+      }
+    ]
+  },
+  "ctaForm": {
+    "title": "Získajte návrh riešenia do 24 hodín",
+    "fields": {
+      "name": "Meno",
+      "company": "Firma",
+      "contact": "Email alebo telefón",
+      "segment": "Segment",
+      "message": "Čo chcete zlepšiť?",
+      "consent": "Súhlasím so spracovaním údajov podľa zásad ochrany súkromia."
+    },
+    "submitLabel": "Poslať dopyt"
+  }
+}
