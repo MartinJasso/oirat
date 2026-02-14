@@ -1,0 +1,8 @@
+{
+  "mode": "formspree",
+  "endpoint": "https://formspree.io/f/xxxx",
+  "spamRules": {
+    "honeypot": true,
+    "minSubmitMs": 1500
+  }
+}
