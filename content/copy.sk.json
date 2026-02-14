@@ -1,80 +1,48 @@
 {
   "hero": {
-    "h1": "Senior AI systémy pre firmy v Košiciach",
-    "subheadline": "Audit → automatizácia → merateľný výsledok bez zbytočného hype.",
-    "primaryCta": "Získať plán do 24 hodín",
-    "secondaryCta": "Pozrieť proces spolupráce"
+    "title": "Senior AI systémy pre firmy v Košiciach",
+    "subtitle": "Audit → automatizácia → merateľný výsledok bez hype-u. Znižujeme administratívu a zrýchľujeme procesy.",
+    "ctaLabel": "Získať plán do 24h"
   },
   "valueProps": {
-    "title": "Čo získate",
     "items": [
-      "Rýchlejšie procesy a menej manuálnej administratívy",
-      "Spoľahlivé workflowy, ktoré fungujú aj po odovzdaní",
-      "Vyššiu konverziu a lepší dohľad nad výkonom"
+      "Rýchlejšie interné procesy a menej manuálnej práce.",
+      "Spoľahlivé workflowy s jasným vlastníkom a metrikami.",
+      "Viac kvalifikovaných dopytov a vyššia konverzia."
     ]
   },
   "packages": {
-    "title": "Balíky služieb",
-    "plans": [
-      {
-        "name": "AI Audit",
-        "summary": "Fixná analýza procesov a príležitostí na automatizáciu.",
-        "duration": "3–5 dní"
-      },
-      {
-        "name": "Automation Sprint",
-        "summary": "Implementácia najdôležitejších automatizácií za 1–2 týždne.",
-        "duration": "1–2 týždne"
-      },
-      {
-        "name": "Retainer",
-        "summary": "Mesačný rozvoj, optimalizácia a podpora AI systémov.",
-        "duration": "mesačne"
-      }
+    "items": [
+      { "name": "AI Audit", "price": "od 490 €", "description": "Mapovanie procesov, prioritizácia a roadmapa implementácie." },
+      { "name": "Automation Sprint", "price": "od 1 490 €", "description": "1–2 týždne implementácie vybraného automatizačného scenára." },
+      { "name": "Retainer", "price": "od 890 €/mesačne", "description": "Priebežné zlepšovanie AI workflowov, reporting a tímové školenie." }
     ]
   },
   "proof": {
-    "title": "Prečo spolupracovať so senior konzultantom",
-    "body": "Skúsenosti z doručovania produkčných riešení, dôraz na ROI a stabilnú prevádzku.",
-    "disclaimer": "Doplňte iba overiteľné výsledky a referencie. Neuvádzajte neoverené tvrdenia."
+    "title": "Dôveryhodnosť a skúsenosti",
+    "bullets": [
+      "Seniorné technické vedenie a doručovanie produkčných riešení.",
+      "Zameranie na ROI: čas, kapacita tímu, konverzné miery.",
+      "Transparentný proces a meranie výsledkov od prvého týždňa."
+    ]
   },
   "useCasesTabs": {
-    "title": "Použitie podľa segmentu",
-    "segments": {
-      "dentist": "Pripomienky termínov, spracovanie dopytov, zníženie výpadkov.",
-      "accounting": "Triedenie dokumentov, predspracovanie podkladov, reporting.",
-      "law": "Intake klientov, prehľad dokumentov, podpora prípravy podaní.",
-      "realestate": "Lead routing, odpovede na dopyty, CRM automatizácia."
-    }
+    "dentist": "Automatizácia objednávok, pripomienok a predbežného triage.",
+    "accounting": "Spracovanie podkladov, kontrolné checklisty a opakované reporty.",
+    "law": "Intake klientov, predpríprava dokumentov a interné šablóny.",
+    "realestate": "Kvalifikácia leadov, follow-up sekvencie a CRM synchronizácia."
   },
   "process": {
-    "title": "Proces spolupráce",
-    "steps": [
-      "Diagnostika",
-      "Implementácia",
-      "Zaškolenie tímu",
-      "Meranie dopadu"
-    ]
+    "steps": ["Diagnostika a výber cieľa", "Implementácia pilotu", "Zaškolenie tímu", "Meranie a optimalizácia"]
   },
   "faq": {
-    "title": "Často kladené otázky",
     "items": [
-      {
-        "q": "Ako rýchlo vieme začať?",
-        "a": "Úvodný audit vieme spustiť do niekoľkých pracovných dní."
-      },
-      {
-        "q": "Musíme meniť existujúce systémy?",
-        "a": "Nie nutne. Najprv využijeme to, čo už vo firme funguje."
-      },
-      {
-        "q": "Aký je typický výsledok?",
-        "a": "Najčastejšie ide o úsporu času, menej chýb a vyššiu rýchlosť reakcie na klienta."
-      }
+      { "q": "Ako rýchlo vieme začať?", "a": "Väčšinou do 3 pracovných dní od úvodného hovoru." },
+      { "q": "Potrebujem vlastný IT tím?", "a": "Nie, riešenia navrhujeme tak, aby fungovali aj bez interného vývoja." },
+      { "q": "Čo je výsledkom AI auditu?", "a": "Prioritizovaný plán zlepšení, odhad dopadu a implementačné kroky." }
     ]
   },
-  "ctaForm": {
-    "title": "Získajte návrh riešenia do 24h",
-    "consentLabel": "Súhlasím so spracovaním údajov podľa zásad ochrany súkromia."
+  "form": {
+    "segments": ["dentist", "accounting", "law", "realestate"]
   }
 }

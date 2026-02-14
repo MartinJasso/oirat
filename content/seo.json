@@ -1,36 +1,8 @@
 {
+  "brandName": "Senior AI Košice",
+  "city": "Košice",
+  "siteUrl": "https://example.com",
   "title": "AI konzultant Košice | Senior AI služby pre firmy",
-  "description": "Senior AI audit a automatizácia procesov pre firmy v Košiciach. Menej administratívy, rýchlejšie workflowy, merateľné výsledky.",
-  "keywords": [
-    "AI konzultant Košice",
-    "AI audit",
-    "automatizácia procesov",
-    "senior AI služby",
-    "AI pre firmy"
-  ],
-  "canonical": "https://example.com/",
-  "openGraph": {
-    "type": "website",
-    "locale": "sk_SK",
-    "siteName": "Senior AI Košice"
-  },
-  "professionalService": {
-    "name": "Senior AI Košice",
-    "areaServed": "Košice",
-    "serviceType": "AI audit a automatizácia procesov"
-  },
-  "routes": {
-    "thankYou": {
-      "path": "/dakujem",
-      "noindex": true
-    },
-    "privacy": {
-      "path": "/privacy",
-      "noindex": false
-    },
-    "terms": {
-      "path": "/terms",
-      "noindex": false
-    }
-  }
+  "description": "Senior AI služby v Košiciach: AI audit, automatizácia procesov a merateľné zlepšenie výkonu firiem.",
+  "keywords": ["AI konzultant Košice", "AI audit", "automatizácia procesov", "senior AI služby"]
 }

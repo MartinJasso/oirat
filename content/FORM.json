@@ -1,15 +1,8 @@
 {
   "mode": "formspree",
-  "endpoint": "https://formspree.io/f/XXXX",
-  "method": "POST",
-  "honeypotField": "website",
-  "rateLimitHint": "v1: enable serverless route + Redis rate limit",
-  "fields": [
-    { "name": "name", "required": true },
-    { "name": "company", "required": false },
-    { "name": "contact", "required": true },
-    { "name": "segment", "required": true },
-    { "name": "message", "required": true },
-    { "name": "consent", "required": true }
-  ]
+  "endpoint": "https://formspree.io/f/xxxx",
+  "spamRules": {
+    "honeypot": true,
+    "minSubmitMs": 1500
+  }
 }
