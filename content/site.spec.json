@@ -1,0 +1,46 @@
+{
+  "brand": {
+    "name": "Senior AI Košice",
+    "city": "Košice",
+    "tone": ["minimal", "direct", "senior", "no-hype"],
+    "theme": {
+      "preset": "minimal-contrast",
+      "radius": "xl",
+      "density": "tight"
+    }
+  },
+  "navigation": {
+    "stickyCta": true,
+    "ctaLabel": "Získať plán do 24h"
+  },
+  "sections": [
+    { "type": "hero", "enabled": true },
+    { "type": "valueProps", "enabled": true },
+    { "type": "packages", "enabled": true },
+    {
+      "type": "credibility",
+      "enabled": true,
+      "mode": "strict",
+      "hideIfMissingProof": true
+    },
+    {
+      "type": "useCasesTabs",
+      "enabled": true,
+      "segments": ["dentist", "accounting", "law", "realestate"]
+    },
+    { "type": "process", "enabled": true },
+    { "type": "faq", "enabled": true },
+    { "type": "ctaForm", "enabled": true },
+    { "type": "footer", "enabled": true }
+  ],
+  "form": {
+    "mode": "formspree",
+    "endpoint": "https://formspree.io/f/XXXX",
+    "successRedirect": "/dakujem",
+    "fields": ["name", "company", "contact", "segment", "message", "consent"],
+    "spamProtection": {
+      "honeypot": true,
+      "minSubmitSeconds": 4
+    }
+  }
+}

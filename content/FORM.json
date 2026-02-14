@@ -1,0 +1,16 @@
+{
+  "mode": "formspree",
+  "endpoint": "https://formspree.io/f/XXXX",
+  "method": "POST",
+  "successRedirect": "/dakujem",
+  "fields": ["name", "company", "contact", "segment", "message", "consent"],
+  "validation": {
+    "required": ["name", "contact", "segment", "consent"],
+    "contact": { "type": "email_or_phone" },
+    "message": { "minLength": 12, "maxLength": 1200 }
+  },
+  "antiSpam": {
+    "honeypot": "website",
+    "minSubmitSeconds": 4
+  }
+}
